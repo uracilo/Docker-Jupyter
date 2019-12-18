@@ -72,3 +72,4 @@ docker logs {HERE CONTAINER ID}
 ```
 http://127.0.0.1:8888/?token=afffb04b2179329188e48b581a259121acb9ff46f78d3f75
 ```
+if not work for you go to your localhost on port 8888 and paste the token of the url
